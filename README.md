@@ -54,7 +54,7 @@
   </a>
   &emsp;
    <a>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=Blue">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=Red">
   </a>
   &emsp;
   <a>
