@@ -14,7 +14,7 @@
   </a> 
   &emsp;
   <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   </a> 
   &emsp;
   <a> 
