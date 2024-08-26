@@ -22,7 +22,7 @@
    </a>
   &emsp;
   <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
   &emsp;
    <a>
@@ -42,7 +42,7 @@
   </a> 
   &emsp;
   <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a> 
   &emsp;
   <a> 
