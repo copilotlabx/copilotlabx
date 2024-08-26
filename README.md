@@ -78,10 +78,7 @@
   <a href="mailto:estevesllanos@gmail.com" target="blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Eduardo Esteves" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Eduardo Esteves" height="30" width="40" /></a>
-  
+
 </p>
 
 -----
